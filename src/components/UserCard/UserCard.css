@@ -1,0 +1,22 @@
+.male,
+.female {
+  font-size: 20px;
+  font-weight: bold;
+  max-width: 200px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.female {
+  background-color: pink;
+}
+
+.male {
+  background-color: brown;
+  color: #fff;
+}
+
+.undefined {
+  color: red;
+}
